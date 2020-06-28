@@ -32,5 +32,7 @@ Check git status, status should show
 Perform git log, to verify what changes have taken place;
     git log
 
+Press shift + Q to exit log screen
+
 If all looks good, the items needs to pushed to the GIthub Servers
     git push origin master
