@@ -6,14 +6,57 @@
     text-decoration-line: none;
     list-style-type: none;
     color: black;
+    box-sizing: border-box;
 }
 
 
+.navbar {
+    display: grid;
+    width: 100%;
+    grid-template-rows: 30px;
+    grid-template-columns: repeat(60, 1fr);
+}
+.pic {
+    border-radius: 50%;
 
+} 
+
+.about {
+    grid-column: 1 / 3;   
+    margin-left: 15px;
+}
+ 
+.store {
+    grid-column: 4 / 6;
+}
+.gmail {
+    grid-column: 51 / 53;
+}
+.images {
+    grid-column: 53 / 56;
+}
+.apps {
+    grid-column: 56 / 58;
+}
+
+.profile {
+    grid-column: 58 / 60;
+}
+
+.pic {
+    height: 32px;
+
+
+
+
+
+
+
+
+
+/*
 
 img, input {
     display: block;
     margin: auto;
-}
-img {
-    margin-top: 18%;
+} */
