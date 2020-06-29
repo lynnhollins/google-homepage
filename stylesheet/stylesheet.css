@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: arial, san-serif;
+    text-decoration-color: black;
+    text-decoration-line: none;
+    list-style-type: none;
+    color: black;
+}
+
+
+
+
+img, input {
+    display: block;
+    margin: auto;
+}
+img {
+    margin-top: 18%;
