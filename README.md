@@ -1,3 +1,8 @@
+NOTE: FEEL FREE TO ASSESS MY PROJECT AND GIVE ME AS MUCH FEEDBACK AS YOU WOULD LIKE.
+/* DAY # 2 */
+I started this google project with certainty that I would complete within 2 to 3 hours max, but I sure was mistaken! I on day 2 and I am just starting to see the light at the end of this particular tunnel.  The HTML portion seemed to go well, but the css is causing me some problems.  So far, I have been done this project without using Devtools on the google main page, just visually looking at google main; however I have used devtools on the mock page. Doing it this way is really making me work.  
+
+/* DAY # 1 */
 At this time I am doing a HTML/CSS project;
 
 I am learning to perform many fjuntions using the Terminal/command line;
