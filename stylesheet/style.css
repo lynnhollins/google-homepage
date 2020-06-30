@@ -59,7 +59,12 @@
 .search_bar {
     display: block;
     margin: auto;
+    width: 40%;
+    height: 50px;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 25px 25px 25px 25px;
 }
+
 .search_btn_div {
     display: flex;
     justify-content: center;
@@ -88,30 +93,27 @@ footer {
     height: 45px;
 }
 
-. {
-    background-color:rgb(233, 233, 233);
-}
-.footer_flex {
+ul.footer_grid {
     display: grid;
     width: 100%;
+    height: 100%;
     grid-template-rows: 30px;
     grid-template-columns: repeat(60, 1fr);
     background-color:rgb(233, 233, 233);
-    /* margin-top: 30px; */
     margin-left: 20px;
     margin-right: 10px;
 }
-.footer_flex li, .footer_flex a {
+.footer_grid li, .footer_grid a {
     background-color:rgb(233, 233, 233);
-    /* padding: 10px; */
+    padding-top: 20px;
 }
 
-.ad {
-    grid-colum: 1 / 3
+.advert {
+    grid-column: 1 / 4
 }
 
 .how {
-    grid-column: 3 / 15
+    grid-column: 4 / 15
 }
 .priv {
     grid-column: 50 / 53;
